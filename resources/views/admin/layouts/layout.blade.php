@@ -7,7 +7,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('admin/assets/img/apple-icon.png') }}">
     <link rel="icon" type="image/png" href="{{ asset('admin/assets/img/favicon.png') }}">
     <title>
-        Soft UI Dashboard by Creative Tim
+        Beauty
     </title>
     <!--     Fonts and icons     -->
     @include('admin.layouts.header')

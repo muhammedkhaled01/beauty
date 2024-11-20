@@ -23,7 +23,7 @@
         </div>
         <div>
             <div class="navbar-nav ms-auto mb-2 mb-lg-0">
-                <a href="" class="btn " style="background-color: #c39469; font-weight: 500">Sign in</a>
+                <a href="{{route('login')}}" class="btn " style="background-color: #c39469; font-weight: 500">Sign in</a>
                 <a href="" class="btn " style="background-color: #c39469; font-weight: 500">Register</a>
 
 
